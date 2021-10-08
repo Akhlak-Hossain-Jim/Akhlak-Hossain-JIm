@@ -3,7 +3,7 @@
 A crazy person love to code & travel and also love to learn crazy thing.
 
 ## About
-I'm a self-thought Front-end Developer and UX designer. I'm passionate about discovering new things, Human interaction, and phycology, and highly curious, and focused on learning all parts of life. In my personal life, I look at things and try to analyze them to solve or to think, how that could be different in a positive way and what I can learn from it. I've worked on different kinds of projects, small to large challenging projects to embrace my skills. No matter what I do, I am very invested. And in every moment, I'm growing.
+I'm a self-thought Front-end Developer and UX designer. I'm passionate about discovering new things, Human interaction, and psychology, and highly curious, and focused on learning all parts of life. In my personal life, I look at things and try to analyze them to solve or to think, how that could be different in a positive way and what I can learn from it. I've worked on different kinds of projects, small to large challenging projects to embrace my skills. No matter what I do, I am very invested. And in every moment, I'm growing.
 >The world is constantly evolving and introducing lots of things than ever before. That's why only technology is not enough; It's how a piece of tech or software technology makes you feel. And It all starts by connecting with you.
 
 Akhlak Hossain Jim
