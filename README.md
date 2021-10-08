@@ -14,8 +14,8 @@ See my leatest Projects [Here](https://ah-jim-seed.web.app/).
 
 ## Contact
 
-I would love to see you in my online presence [Here](http://akhlak-hossain-jim.github.io/).
-You will find my all contact information there, my inbox is always open. Whether you have a question or just want to say hello, I'll try my best to get back to you soon!
+I would love to show you my online presence [Here](http://akhlak-hossain-jim.github.io/).
+You will find my all contact information there, and my inbox is always open. Whether you have a question or just want to say hello, I'll try my best to get back to you soon!
 
 ## Looking for help with your code?
 Find me [Here](http://akhlak-hossain-jim.github.io/).
