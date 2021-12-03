@@ -1,4 +1,4 @@
-
+![Jim Cover Image](./Jim.jpg)
 
 Hi there ✋!
 
