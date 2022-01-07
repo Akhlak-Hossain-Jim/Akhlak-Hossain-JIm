@@ -1,4 +1,4 @@
-![Jim Cover Image](./bg.png)
+![Jim Cover Image](./jim.png)
 
 Hi there ✋!
 
