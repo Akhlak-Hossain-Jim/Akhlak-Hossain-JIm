@@ -2,12 +2,14 @@
 
 Hi there ✋!
 
-I'm a self-taught Front-end Developer and UX designer(Learning). I am working in Frontend for more than 2 years with technologies including HTML, CSS, SASS/SCSS, Bootstrap, Tailwind css, Javascript, Reactjs, NextJs, styled-components and many mor. I'm passionate about discovering new things, Human interaction, and psychology, and highly curious, and focused on learning all parts of life. In my personal life, I look at things and try to analyze them to solve or to think, how that could be different in a positive way and what I can learn from it. I've worked on different kinds of projects, small to large challenging projects to embrace my skills. No matter what I do, I am very invested. And in every moment, I'm growing. [learn more.](https://ah-jim-seed.web.app/)
+I'm a self-taught Frontend Developer and UX designer(Learning). I have been working in Frontend for more than two years with technologies including HTML, CSS, SASS/SCSS, Bootstrap, Tailwind CSS, Javascript, Reactjs, NextJs, styled-components, and many more. I'm passionate about discovering new things, Human interaction, psychology, highly curious, and focused on learning from all parts of life. In my personal life, I look at things and try to analyze them to solve or think, how that could be different in a better way and what I can learn from it. I've worked on different kinds of projects, small to large challenging projects to embrace my skills. No matter what I do, I am very invested. And in every moment, I'm growing. [learn more.](https://ah-jim-seed.web.app/about/)
 
 
 >The world is constantly evolving and introducing lots of things than ever before. That's why only technology is not enough; It's how a piece of tech or software technology makes you feel. And It all starts by connecting with you.
 
 -[Akhlak Hossain Jim](https://ah-jim-seed.web.app/)
+
+<a href="https://www.buymeacoffee.com/ahjim" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Contact
 
@@ -30,3 +32,5 @@ See my resume [Here](https://ah-jim-seed.web.app/pdf/resume.pdf)
 or Visit my [LinkedIn](https://www.linkedin.com/in/akhlakhossainjim/) instade.
 
 ## Hobbies
+
+Debating | Traveling and [more](https://ah-jim-seed.web.app/what-else/).
