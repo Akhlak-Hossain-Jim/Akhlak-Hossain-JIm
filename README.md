@@ -26,6 +26,10 @@ See my leatest Projects [Here](https://ah-jim-seed.web.app/).
 ## Looking for help with your code?
 Find me [Here](https://www.linkedin.com/in/akhlakhossainjim/).
 
+<a href="https://dev.to/akhlakhossainjim"><img src="https://img.shields.io/badge/DEV-%20-black" alt="dev.to"></a>
+<a href="https://www.codementor.io/@aklajim"><img src="https://img.shields.io/badge/Code%20Mentor-Jim-lightgrey" alt="codementor"></a>
+<a href="https://www.frontendmentor.io/profile/Akhlak-Hossain-Jim"><img src="https://img.shields.io/badge/Frontend%20Mentor-Jim-white" alt="frontend mentor"></a>
+
 ## Resume
 
 See my resume [Here](https://ah-jim-seed.web.app/pdf/resume.pdf)
