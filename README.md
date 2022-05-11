@@ -33,7 +33,8 @@ Find me [Here](https://www.linkedin.com/in/akhlakhossainjim/).
 ## Resume
 
 <!-- See my resume [Here](https://ah-jim-seed.web.app/pdf/resume.pdf) -->
-or Visit my [LinkedIn](https://www.linkedin.com/in/akhlakhossainjim/) instade.
+<!-- or  -->
+Visit my [LinkedIn](https://www.linkedin.com/in/akhlakhossainjim/) instade.
 
 ## Hobbies
 
