@@ -7,18 +7,18 @@ I'm a self-taught Frontend Developer and UX designer(Learning). I have been work
 
 >The world is constantly evolving and introducing lots of things than ever before. That's why only technology is not enough; It's how a piece of tech or software technology makes you feel. And It all starts by connecting with you.
 
--[Akhlak Hossain Jim](https://ah-jim-seed.web.app/)
+-[Akhlak Hossain Jim](https://ahjim.com/)
 
 <a href="https://www.buymeacoffee.com/ahjim" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Contact
 
-I would love to show you my online presence [Here](http://ah-jim-seed.web.app).
+I would love to show you my online presence [Here](http://ahjim.com/about).
 You will find my all contact information there, and my inbox is always open. Whether you have a question or just want to say hello, I'll try my best to get back to you soon!
 
 ## See My Projects 
 
-See my leatest Projects [Here](https://ah-jim-seed.web.app/).
+See my leatest Projects [Here](https://ahjim.com/).
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=akhlak-hossain-jim&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhlak-hossain-jim&layout=compact&theme=cobalt&hide_border=true" />
@@ -32,9 +32,9 @@ Find me [Here](https://www.linkedin.com/in/akhlakhossainjim/).
 
 ## Resume
 
-See my resume [Here](https://ah-jim-seed.web.app/pdf/resume.pdf)
+<!-- See my resume [Here](https://ah-jim-seed.web.app/pdf/resume.pdf) -->
 or Visit my [LinkedIn](https://www.linkedin.com/in/akhlakhossainjim/) instade.
 
 ## Hobbies
 
-Debating | Traveling and [more](https://ah-jim-seed.web.app/what-else/).
+Debating | Traveling and [more](https://ahjim.com/what-else/).
