@@ -1,39 +1,48 @@
 ![Jim Cover Image](./jim.png)
 
-Hi there ✋!
+**👋 Hi there!**
 
-I'm a self-taught Frontend Developer and UX designer(Learning). I have been working in Frontend for more than two years with technologies including HTML, CSS, SASS/SCSS, Bootstrap, Tailwind CSS, Javascript, Reactjs, NextJs, styled-components, and many more. I'm passionate about discovering new things, Human interaction, psychology, highly curious, and focused on learning from all parts of life. In my personal life, I look at things and try to analyze them to solve or think, about how that could be different in a better way and what I can learn from it. I've worked on different kinds of projects, small to large challenging projects to embrace my skills. No matter what I do, I am very invested. And in every moment, I'm growing. [Learn more.](https://ah-jim-seed.web.app/about/)
+I'm Akhlak Hossain Jim, a self-taught Frontend Developer with over 4 years of experience in creating and maintaining responsive, interactive web applications using cutting-edge web technologies. I possess a track record of delivering high-quality products on time and within budget, both as an independent contributor and as part of a collaborative team. My strengths lie in problem-solving, critical thinking, and analytical reasoning, and I'm known for my adaptability and commitment to continuous learning.
 
+🚀 My passion revolves around crafting user-friendly and visually captivating web experiences. My expertise spans various tools and technologies, including React, Next.js, Bootstrap, Tailwind, Styled-components, Git, GitHub, Netlify, Vercel, Firebase, and Figma. [Learn more about me here.](https://ahjim.com/about/)
 
->The world is constantly evolving and introducing lots of things than ever before. That's why only technology is not enough; It's how a piece of tech or software technology makes you feel. And It all starts by connecting with you. - [Akhlak Hossain Jim](https://ahjim.com/)
+> "The world is constantly evolving and introducing more innovations than ever before. That's why it's not just about technology; it's about how a piece of tech or software makes you feel. And it all starts by connecting with you." - [Akhlak Hossain Jim](https://ahjim.com/)
 
-<a href="https://www.buymeacoffee.com/ahjim" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/ahjim" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+</a>
 
-## Contact
+## 📬 How to Reach Me
 
-I would love to show you my online presence [Here](http://ahjim.com/about).
-You will find my all contact information there, and my inbox is always open. Whether you have a question or just want to say hello, I'll try my best to get back to you soon!
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/akhlakhossainjim/)
+- **GitHub**: [Explore my GitHub repositories](https://github.com/Akhlak-Hossain-Jim)
+- **Website**: [Visit my website, AHJIM](https://ahjim.com)
+- **Resume**: [View my resume](./resume/resume.pdf)
 
-## See My Projects 
+## 🔍 See My Projects
 
-See my latest Projects [Here](https://ahjim.com/).
+You can check out my latest projects [here](https://ahjim.com/).
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhlak-hossain-jim&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhlak-hossain-jim&layout=compact&theme=cobalt&hide_border=true" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhlak-hossain-jim&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhlak-hossain-jim&layout=compact&theme=cobalt&hide_border=true" />
+</div>
 
-## Looking for help with your code?
-Find me [Here](https://www.linkedin.com/in/akhlakhossainjim/).
+## 🚀 Looking for Code Help?
 
-<a href="https://dev.to/akhlakhossainjim"><img src="https://img.shields.io/badge/DEV-to-black" alt="dev.to"></a>
-<a href="https://www.codementor.io/@aklajim"><img src="https://img.shields.io/badge/Code%20Mentor-Jim-lightgrey" alt="codementor"></a>
-<a href="https://www.frontendmentor.io/profile/Akhlak-Hossain-Jim"><img src="https://img.shields.io/badge/Frontend%20Mentor-Jim-white" alt="frontend mentor"></a>
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/akhlakhossainjim/) if you need assistance with your code.
 
-## Resume
+<a href="https://dev.to/akhlakhossainjim">
+  <img src="https://img.shields.io/badge/DEV.to-black" alt="dev.to">
+</a>
+<a href="https://www.codementor.io/@aklajim">
+  <img src="https://img.shields.io/badge/Code%20Mentor-Jim-lightgrey" alt="codementor">
+</a>
+<a href="https://www.frontendmentor.io/profile/Akhlak-Hossain-Jim">
+  <img src="https://img.shields.io/badge/Frontend%20Mentor-Jim-white" alt="frontend mentor">
+</a>
 
-<!-- See my resume [Here](https://ah-jim-seed.web.app/pdf/resume.pdf) -->
-<!-- or  -->
-Visit my [LinkedIn](https://www.linkedin.com/in/akhlakhossainjim/) instead.
+## 🌟 Hobbies
 
-## Hobbies
-
-Debating | Traveling and [more](https://ahjim.com/what-else/).
+Debating, Traveling, and [more](https://ahjim.com/what-else/).
