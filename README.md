@@ -23,10 +23,11 @@ I'm Akhlak Hossain Jim, a self-taught Frontend Developer with over 4 years of ex
 
 You can check out my latest projects [here](https://ahjim.com/).
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ether-genius&theme=cobalt&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph&count_private=true&role=OWNER,COLLABORATOR" alt="stat graph" width="100%" >
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhlak-hossain-jim&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhlak-hossain-jim&layout=compact&theme=cobalt&hide_border=true" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Akhlak-Hossain-Jim&theme=cobalt&show_icons=true&count_private=true&hide_border=true&role=OWNER,COLLABORATOR" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Akhlak-Hossain-Jim&layout=compact&theme=cobalt&show_icons=true&count_private=true&hide_border=true&role=OWNER,COLLABORATOR" alt="languages" />
 </div>
 
 ## 🚀 Looking for Code Help?
