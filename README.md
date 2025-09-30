@@ -16,7 +16,7 @@ I'm Akhlak Hossain Jim, a self-taught Frontend Developer with over 5 years of ex
 
 - **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/akhlakhossainjim/)
 - **GitHub**: [Explore my GitHub repositories](https://github.com/Akhlak-Hossain-Jim)
-- **Website**: [Visit my website, AHJIM](https://ahjim.com)
+- **Website**: [Visit my website, Akhlak.dev](https://akhlak.dev/)
 - **Resume**: [View my resume](./resume/resume.pdf)
 
 ## 🔍 See My Projects
