@@ -2,7 +2,7 @@
 
 **👋 Hi there!**
 
-I'm Akhlak Hossain Jim, a self-taught Frontend Developer with over 5 years of experience in creating and maintaining responsive, interactive web applications using cutting-edge web technologies. I possess a track record of delivering high-quality products on time and within budget, both as an independent contributor and as part of a collaborative team. My strengths lie in problem-solving, critical thinking, and analytical reasoning, and I'm known for my adaptability and commitment to continuous learning.
+I'm Akhlak Hossain Jim, a self-taught Frontend Developer with over 6 years of experience in creating and maintaining responsive, interactive web applications using cutting-edge web technologies. I possess a track record of delivering high-quality products on time and within budget, both as an independent contributor and as part of a collaborative team. My strengths lie in problem-solving, critical thinking, and analytical reasoning, and I'm known for my adaptability and commitment to continuous learning.
 
 🚀 My passion revolves around crafting user-friendly and visually captivating web experiences. My expertise spans various tools and technologies, including React, Next.js, JavaScript, Typescript, CSS, Bootstrap, Tailwind, Styled-components, MUI, Git, GitHub, Netlify, Vercel, Firebase, Figma, and more. [Learn more about me here.](https://akhlak.dev/about/)
 
