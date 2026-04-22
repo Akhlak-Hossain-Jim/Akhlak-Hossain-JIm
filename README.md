@@ -8,7 +8,7 @@ I'm Akhlak Hossain Jim, a self-taught Frontend Developer with over 6 years of ex
 
 > "The world is constantly evolving and introducing more innovations than ever before. That's why it's not just about technology; it's about how a piece of tech or software makes you feel. And it all starts by connecting with you." - [Akhlak Hossain Jim](https://akhlak.dev/)
 
-<a href="https://www.buymeacoffee.com/ahjim" target="_blank">
+<a href="https://www.buymeacoffee.com/akhlak_dev" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
 </a>
 
