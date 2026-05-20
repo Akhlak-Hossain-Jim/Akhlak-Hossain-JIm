@@ -27,7 +27,7 @@ You can check out my latest projects [here](https://akhlak.dev/).
 
 <div align="left">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Akhlak-Hossain-Jim&theme=cobalt&show_icons=true&count_private=true&hide_border=true&role=OWNER,COLLABORATOR" alt="My GitHub Stats" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Akhlak-Hossain-Jim&layout=compact&theme=cobalt&show_icons=true&count_private=true&hide_border=true&role=OWNER,COLLABORATOR" alt="languages" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Akhlak-Hossain-Jim&layout=compact&theme=cobalt&show_icons=true&count_private=true&hide_border=true&role=OWNER,COLLABORATOR&hide=Jupyter%20Notebook" alt="languages" />
 </div>
 
 ## 🚀 Looking for Code Help?
